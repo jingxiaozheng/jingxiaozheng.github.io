@@ -1,5 +1,5 @@
 ---
-title: "A Real-Time Multi-Task Single Shot Face Detector."
+title: "A Real-Time Multi-Task Single Shot Face Detector"
 collection: publications
 permalink: /publications/ssfd
 date: 2018-9-6
