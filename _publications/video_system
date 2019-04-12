@@ -3,7 +3,7 @@ title: "An Automatic System for Unconstrained Video-Based Face Recognition"
 collection: publications
 permalink: /publication/video_system
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018
+date: '2018'
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/1812.04058'
 citation: '<b>J. Zheng</b>, R. Ranjan, C.-H. Chen, J.-C. Chen, C. D. Castillo and R. Chellappa. <i>arXiv preprint arXiv:1812.04058.</i>. <b>Submitted to IEEE Transactions on Image Processing</b>'
