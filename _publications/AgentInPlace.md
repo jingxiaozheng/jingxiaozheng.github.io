@@ -1,5 +1,5 @@
 ---
-title: "Representing Videos based on Scene Layouts for Recognizing Agent-in-Place Actions."
+title: "Representing Videos based on Scene Layouts for Recognizing Agent-in-Place Actions"
 collection: publications
 permalink: /publications/AgentInPlace
 date: 2018-11-16
