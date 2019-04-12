@@ -1,5 +1,5 @@
 ---
-title: "Deep Heterogeneous Feature Fusion for Template-Based Face Recognition."
+title: "Deep Heterogeneous Feature Fusion for Template-Based Face Recognition"
 collection: publications
 permalink: /publications/fusion
 date: 2017-2-15
