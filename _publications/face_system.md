@@ -1,5 +1,5 @@
 ---
-title: "A Fast and Accurate System for Face Detection, Identification, and Verification."
+title: "A Fast and Accurate System for Face Detection, Identification, and Verification"
 collection: publications
 permalink: /publications/face_system
 date: 2019-3-20
