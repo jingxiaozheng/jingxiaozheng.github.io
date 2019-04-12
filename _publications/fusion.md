@@ -6,4 +6,4 @@ date: 2017-2-15
 venue: 'IEEE Winter Conference on Applications of Computer Vision (WACV)'
 citation: 'Navaneeth Bodla, <b>Jingxiao Zheng</b>, Hongyu Xu, Jun-Cheng Chen, Carlos D. Castillo, and Rama Chellappa. <i>IEEE Winter Conference on Applications of Computer Vision.</i> <b>WACV 2017.</b>'
 --- 
-[[Arxiv]](https://arxiv.org/abs/1702.04471)
+[[arXiv]](https://arxiv.org/abs/1702.04471)
