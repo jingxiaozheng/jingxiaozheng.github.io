@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 <p align="left">
-<b>PhD Candidate</b>, Current, University of Maryland, College Park. 
+<b>PhD Candidate</b>, Now, University of Maryland, College Park. 
 </p>
 
 <p align="left">
