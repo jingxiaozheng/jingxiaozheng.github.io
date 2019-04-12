@@ -13,9 +13,9 @@ author_profile: true
 </p>
 
 <p align="left">
-<b>Master of Science</b>, 2014, University of Maryland, College Park. 
+<b>Master of Science</b>, Spring 2014, University of Maryland, College Park. 
 </p>
 
 <p align="left">
-<b>Bachelor of Engineering</b>, 2012, Southeast University, Nanjing.
+<b>Bachelor of Engineering</b>, Spring 2012, Southeast University, Nanjing.
 </p>
