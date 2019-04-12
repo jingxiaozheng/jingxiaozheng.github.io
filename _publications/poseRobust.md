@@ -1,5 +1,5 @@
 ---
-title: "Pose-Robust Face Verification by Exploiting Competing Tasks."
+title: "Pose-Robust Face Verification by Exploiting Competing Tasks"
 collection: publications
 permalink: /publications/poseRobust
 date: 2017-2-15
