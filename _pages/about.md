@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm the final year PhD candidate in the [Department of Electrical and Computer Engineering](https://ece.umd.edu/) at University of Maryland, College Park. My advisor is [Prof. Rama Chellappa](http://users.umiacs.umd.edu/~rama/). I am also affiliated with [University of Maryland Institute for Advanced Computer Studies (UMIACS)](http://www.umiacs.umd.edu/).
+Hi there! I'm a final year PhD candidate in the [Department of Electrical and Computer Engineering](https://ece.umd.edu/) at University of Maryland, College Park. My advisor is [Prof. Rama Chellappa](http://users.umiacs.umd.edu/~rama/). I am also affiliated with [University of Maryland Institute for Advanced Computer Studies (UMIACS)](http://www.umiacs.umd.edu/).
 
 My research interests include deep learning, face recognition, video analysis, action recognition and dictionary learning.
 
