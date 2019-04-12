@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : Jingxiao Zheng
 title_separator          : "-"
 name                     : &name "Jingxiao Zheng"
-description              : &description "PhD Candidate at University of Maryland, College Park"
+description              : &description "PhD Candidate, Department of Electrical and Computer Engineering, University of Maryland, College Park"
 url                      : https://jingxiaozheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jingxiaozheng.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jingxiao Zheng"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate at University of Maryland, College Park"
+  bio              : "PhD Candidate, Department of Electrical and Computer Engineering, University of Maryland, College Park"
   location         : "College Park, Maryland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Cc4I1vYAAAAJ&hl=en"
-  email            :
+  email            : "jxzheng@umiacs.umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
