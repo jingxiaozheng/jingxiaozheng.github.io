@@ -6,4 +6,4 @@ date: 2019-4-2
 venue: 'IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)'
 citation: 'Rajeev Ranjan, Ankan Bansal, <b>Jingxiao Zheng</b>, Hongyu Xu, Josh Gleason, Boyu Lu, Anirudh Nanduri, Jun-Cheng Chen, Carlos D. Castillo and Rama Chellappa. <b>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).</b>'
 --- 
-[[arXiv]](https://arxiv.org/abs/1809.07586)
+[[arXiv]](https://arxiv.org/abs/1809.07586) [[PDF]](https://ieeexplore.ieee.org/document/8680708) 
