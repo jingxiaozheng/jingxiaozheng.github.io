@@ -1,5 +1,5 @@
 ---
-title: "Uncertainty Modeling of Contextual-Connection between Tracklets for Unconstrained Video-based Face Recognition"
+title: "Uncertainty Modeling of Contextual-Connections between Tracklets for Unconstrained Video-based Face Recognition"
 collection: publications
 permalink: /publications/UGG
 date: 2019-07-22
