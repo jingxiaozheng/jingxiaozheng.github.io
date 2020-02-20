@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jingxiao Zheng"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate, Department of Electrical and Computer Engineering, University of Maryland, College Park"
-  location         : "College Park, Maryland"
+  bio              : "PhD in Electrical Engineering, University of Maryland, College Park"
+  location         : "Mountain View, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Cc4I1vYAAAAJ&hl=en"
-  email            : "jxzheng@umiacs.umd.edu"
+  email            : "jxszheng@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
