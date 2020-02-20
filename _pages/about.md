@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a perception software engineer at [Waymo LLC](https://waymo.com/). I obtained my PhD in the [Department of Electrical and Computer Engineering](https://ece.umd.edu/) at University of Maryland, College Park. My advisor is [Prof. Rama Chellappa](http://users.umiacs.umd.edu/~rama/).
+Hi there! I am a perception software engineer at [Waymo LLC](https://waymo.com/). I obtained my PhD in [Electrical Engineering](https://ece.umd.edu/) at University of Maryland, College Park. My advisor is [Prof. Rama Chellappa](http://users.umiacs.umd.edu/~rama/).
 
 My research interests include deep learning, face recognition, video analysis, action recognition and dictionary learning.
 
